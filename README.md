@@ -23,7 +23,6 @@ The Objective of this assignment is to work with ReST API's , understand asynchr
 4. All your images resides in the public/images folder  
 5. HTML, Javascript, CSS code should be well indented and commented  
 6. You shall use Bootstrap to style your pages and elements  
-7. The Assignment should be pushed to gitlab on completion and submitted for Preliminary Automated Review as described below.  
 
 ## Assignment
 
