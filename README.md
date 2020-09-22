@@ -1,4 +1,4 @@
-# Movie Cruiser Assignment
+# JS_Movies_FavouriteList
 
 ## Objective
 
